@@ -42,27 +42,6 @@
 
 ---
 
-## 💼 Compétences Clés
-
-\`\`\`javascript
-const terrel = {
-  statut: "Étudiant Innovent",
-  objectif: "Data Scientist",
-  niveau: "Développeur Junior",
-  specialites: ["Data Science", "Full-Stack Development", "E-commerce", "UX Design"],
-  architecture: ["B2C", "C2C", "SaaS"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["PHP", "MySQL"],
-  design: ["Figma", "Design System", "UI/UX"],
-  methodologie: ["Agile", "Documentation complète", "Livrables professionnels"],
-  identite_visuelle: {
-    couleurs: ["#ff2d00", "#000000"],
-    philosophie: "Minimaliste, moderne, impactant"
-  }
-};
-\`\`\`
-
----
 
 ## 📫 Contact & Réseaux
 
