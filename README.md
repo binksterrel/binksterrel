@@ -13,21 +13,6 @@
 
 ---
 
-## 🚀 Projets Phares
-
-### 📂 [Portfolio SI](https://portfolio-terrel.vercel.app)
-Plateforme centralisant TDs, cours, livrables et modals plein écran avec une identité visuelle orange/noir.
-- **Stack :** Next.js, React, Tailwind CSS
-- **Design :** Identité graphique cohérente, animations fluides
-
-### 👟 [Bander-Sneakers](https://bander-sneakers.kesug.com)
-Marketplace B2C + C2C dédiée aux sneakers avec interface admin complète.
-- **Live :** [bander-sneakers.kesug.com](https://bander-sneakers.kesug.com)
-- **Repo :** [github.com/binksterrel/bander-sneakers](https://github.com/binksterrel/bander-sneakers)
-- **Livrables :** Cahier des charges, maquettes desktop/mobile, design system, guides utilisateur/admin/installation, SQL/CSV
-
----
-
 ## 🛠️ Technologies & Outils
 
 <p align="center">
