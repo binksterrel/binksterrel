@@ -5,14 +5,14 @@
 
 <!-- ANIMATED TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=E62F2F&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Data+Science+%7C+Full-Stack+Dev;Innovation+%7C+UX+Design;Building+the+Future+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Data+Science+%7C+Full-Stack+Dev;Innovation+%7C+UX+Design;Building+the+Future+🚀" alt="Typing Animation" />
 </p>
 
 <!-- PROFILE BADGES WITH ANIMATION -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binksterrel&color=E62F2F&style=for-the-badge&label=VISITEURS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/binksterrel?style=for-the-badge&color=E62F2F&labelColor=1a1a1a&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-DISPONIBLE-E62F2F?style=for-the-badge&labelColor=1a1a1a" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=binksterrel&color=E74C3C&style=for-the-badge&label=VISITEURS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/binksterrel?style=for-the-badge&color=E74C3C&labelColor=1a1a1a&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-DISPONIBLE-E74C3C?style=for-the-badge&labelColor=1a1a1a" alt="Status" />
 </p>
 
 <br/>
@@ -53,7 +53,7 @@ const terrel = {
   ],
   
   identite_visuelle: {
-    couleurs: ["#E62F2F", "#000000"],
+    couleurs: ["#E74C3C", "#000000"],
     philosophie: "Minimaliste · Moderne · Impactant"
   },
   
@@ -116,7 +116,7 @@ console.log(terrel.passion());
   <tr>
     <td width="50%" valign="top">
       <a href="https://portfolio-terrel.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=binksterrel&repo=portfolio&theme=react&bg_color=1a1a1a&title_color=E62F2F&icon_color=E62F2F&text_color=ffffff&border_color=E62F2F&border_radius=10" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=binksterrel&repo=portfolio&theme=react&bg_color=1a1a1a&title_color=E74C3C&icon_color=E74C3C&text_color=ffffff&border_color=E74C3C&border_radius=10" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -125,7 +125,7 @@ console.log(terrel.passion());
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/binksterrel/bander-sneakers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=binksterrel&repo=bander-sneakers&theme=react&bg_color=1a1a1a&title_color=E62F2F&icon_color=E62F2F&text_color=ffffff&border_color=E62F2F&border_radius=10" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=binksterrel&repo=bander-sneakers&theme=react&bg_color=1a1a1a&title_color=E74C3C&icon_color=E74C3C&text_color=ffffff&border_color=E74C3C&border_radius=10" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -148,26 +148,19 @@ console.log(terrel.passion());
 
 ### 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=react&bg_color=1a1a1a&title_color=E62F2F&text_color=ffffff&icon_color=E62F2F&border_color=E62F2F&border_radius=10&hide_border=false&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=react&background=1a1a1a&ring=E62F2F&fire=E62F2F&currStreakLabel=E62F2F&sideLabels=ffffff&dates=ffffff&border=E62F2F&stroke=E62F2F&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=react&bg_color=1a1a1a&title_color=E74C3C&text_color=ffffff&icon_color=E74C3C&border_color=E74C3C&border_radius=10&hide_border=false&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=react&background=1a1a1a&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=ffffff&dates=ffffff&border=E74C3C&stroke=E74C3C&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=react&bg_color=1a1a1a&title_color=E62F2F&text_color=ffffff&icon_color=E62F2F&border_color=E62F2F&border_radius=10&hide_border=false&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=binksterrel&layout=compact&theme=react&bg_color=1a1a1a&title_color=E62F2F&text_color=ffffff&border_color=E62F2F&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=react&bg_color=1a1a1a&title_color=E74C3C&text_color=ffffff&icon_color=E74C3C&border_color=E74C3C&border_radius=10&hide_border=false&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=1a1a1a&color=E74C3C&line=E74C3C&point=ffffff&area=true&hide_border=false&border_radius=10&custom_title=Activity%20Graph&height=200" />
 
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=1a1a1a&color=E62F2F&line=E62F2F&point=ffffff&area=true&hide_border=false&border_radius=10&custom_title=Contribution%20Graph" width="98%" />
 </div>
 
 <br/>
 
 <!-- GITHUB TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binksterrel&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4&title=Commits,Followers,Repositories,Stars,PullRequest,Issues&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=binksterrel&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4&title=Commits,Followers,Repositories,Stars,PullRequest,Issues" />
 </div>
 
 <br/>
@@ -185,7 +178,7 @@ console.log(terrel.passion());
   <tr>
     <td align="center">
       <a href="https://portfolio-terrel.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Portfolio-E62F2F?style=for-the-badge&logoColor=white" height="40" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/🌐_Portfolio-E74C3C?style=for-the-badge&logoColor=white" height="40" alt="Portfolio" />
       </a>
     </td>
     <td align="center">
@@ -230,7 +223,7 @@ console.log(terrel.passion());
   
   <br/>
   
-  <img src="https://img.shields.io/badge/2025-E62F2F?style=flat-square&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/2025-E74C3C?style=flat-square&logo=buffer&logoColor=white" />
   <img src="https://img.shields.io/badge/Terrel_Nuentsa-000000?style=flat-square" />
   
 </div>
