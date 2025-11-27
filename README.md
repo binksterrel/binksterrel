@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FF6500&center=true&vCenter=true&width=700&lines=TERREL+NUENTSA;Étudiant+Innovent;Futur+Data+Scientist;Développeur+Junior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=700&lines=TERREL+NUENTSA;Étudiant+Innovent;Futur+Data+Scientist;Développeur+Junior" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binksterrel&color=ff6500&style=flat-square&label=Visiteurs" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/binksterrel?style=flat-square&color=ff6500&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=binksterrel&color=e74c3c&style=flat-square&label=Visiteurs" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/binksterrel?style=flat-square&color=e74c3c&labelColor=000000" alt="Followers" />
 </p>
 
 ---
@@ -51,12 +51,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff6500&text_color=ffffff&icon_color=ff6500" height="165" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6500&text_color=ffffff&icon_color=ff6500" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=e74c3c&text_color=ffffff&icon_color=e74c3c" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=e74c3c&text_color=ffffff&icon_color=e74c3c" height="165" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=dark&hide_border=true&background=000000&ring=ff6500&fire=ff6500&currStreakLabel=ff6500" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=dark&hide_border=true&background=000000&ring=e74c3c&fire=e74c3c&currStreakLabel=e74c3c" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=000000&color=ff6500&line=ff6500&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=000000&color=e74c3c&line=e74c3c&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ const terrel = {
   design: ["Figma", "Design System", "UI/UX"],
   methodologie: ["Agile", "Documentation complète", "Livrables professionnels"],
   identite_visuelle: {
-    couleurs: ["#ff6500", "#000000"],
+    couleurs: ["#e74c3c", "#000000"],
     philosophie: "Minimaliste, moderne, impactant"
   }
 };
@@ -95,7 +95,7 @@ const terrel = {
 
 <p align="center">
   <a href="https://portfolio-terrel.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white&color=ff6500" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white&color=e74c3c" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/terrelnuentsa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -111,7 +111,7 @@ const terrel = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e74c3c&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
