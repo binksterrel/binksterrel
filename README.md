@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6500&center=true&vCenter=true&width=600&lines=Terrel+Nuentsa;SI+%7C+E-commerce+%7C+UX+Designer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6500&center=true&vCenter=true&width=600&lines=Terrel+Nuentsa;Étudiant+Innovent;Futur+Data+Scientist;Développeur+Junior" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Systèmes d'Information · E-commerce B2C/C2C · Design System</strong>
+  <strong>Data Science · Full-Stack Development · Innovation</strong>
 </p>
 
 <p align="center">
@@ -88,7 +88,10 @@ Marketplace B2C + C2C dédiée aux sneakers avec interface admin complète.
 
 \`\`\`javascript
 const terrel = {
-  specialites: ["SI", "E-commerce", "UX Design"],
+  statut: "Étudiant Innovent",
+  objectif: "Data Scientist",
+  niveau: "Développeur Junior",
+  specialites: ["Data Science", "Full-Stack Development", "E-commerce", "UX Design"],
   architecture: ["B2C", "C2C", "SaaS"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["PHP", "MySQL"],
