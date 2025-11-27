@@ -19,33 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,php,mysql,figma,git,ps,pr&theme=dark" height="50" />
 </p>
 
-<details>
-<summary><strong>🎨 Front-End</strong></summary>
-<br>
-  
-- **Frameworks :** React, Next.js
-- **Styling :** Tailwind CSS, CSS3
-- **Languages :** JavaScript, TypeScript, HTML5
-</details>
-
-<details>
-<summary><strong>⚙️ Back-End & Base de données</strong></summary>
-<br>
-  
-- **Langages :** PHP, SQL
-- **BDD :** MySQL, MariaDB
-- **API :** RESTful architecture
-</details>
-
-<details>
-<summary><strong>🎯 Design & UX</strong></summary>
-<br>
-  
-- **Design :** Figma, Adobe Photoshop
-- **Vidéo :** Adobe Premiere Pro
-- **UI/UX :** Design Systems, Maquettes interactives
-</details>
-
 ---
 
 ## 📊 GitHub Analytics
