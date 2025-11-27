@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2d00&height=200&section=header&text=TERREL%20NUENTSA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Étudiant%20Innovent%20·%20Futur%20Data%20Scientist%20·%20Développeur%20Junior&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62F2F&height=200&section=header&text=TERREL%20NUENTSA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Étudiant%20Innovent%20·%20Futur%20Data%20Scientist%20·%20Développeur%20Junior&descAlignY=55&descSize=18" width="100%" />
 </h1>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binksterrel&color=ff2d00&style=flat-square&label=Visiteurs" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/binksterrel?style=flat-square&color=ff2d00&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=binksterrel&color=E62F2F&style=flat-square&label=Visiteurs" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/binksterrel?style=flat-square&color=E62F2F&labelColor=000000" alt="Followers" />
 </p>
 
 ---
@@ -24,12 +24,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff2d00&text_color=ffffff&icon_color=ff2d00" height="165" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff2d00&text_color=ffffff&icon_color=ff2d00" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=E62F2F&text_color=ffffff&icon_color=E62F2F" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=E62F2F&text_color=ffffff&icon_color=E62F2F" height="165" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=dark&hide_border=true&background=000000&ring=ff2d00&fire=ff2d00&currStreakLabel=ff2d00" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=dark&hide_border=true&background=000000&ring=E62F2F&fire=E62F2F&currStreakLabel=E62F2F" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=000000&color=ff2d00&line=ff2d00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=000000&color=E62F2F&line=E62F2F&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://portfolio-terrel.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white&color=ff2d00" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white&color=E62F2F" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/terrelnuentsa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2d00&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62F2F&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
