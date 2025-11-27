@@ -1,9 +1,3 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/binksterrel/portfolio-terrel-nuentsa/main/public/banner.png"
-    alt="Terrel Nuentsa - Developer Portfolio" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6500&center=true&vCenter=true&width=600&lines=Terrel+Nuentsa;SI+%7C+E-commerce+%7C+UX+Designer;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
