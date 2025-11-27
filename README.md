@@ -8,12 +8,16 @@
   <img src="https://komarev.com/ghpvc/?username=binksterrel&color=E62F2F&style=flat-square&label=Visiteurs" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/binksterrel?style=flat-square&color=E62F2F&labelColor=000000" alt="Followers" />
 </p>
+
 ---
+
 ## 🛠️ Technologies & Outils
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,php,mysql,figma,git,ps,pr&theme=dark" height="50" />
 </p>
+
 ---
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=E62F2F&text_color=ffffff&icon_color=E62F2F" height="165" alt="Top Languages" />
@@ -28,6 +32,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=000000&color=E62F2F&line=E62F2F&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
 ---
 
 ## 📫 Contact & Réseaux
@@ -45,7 +50,9 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E62F2F&height=100&section=footer" width="100%" />
 </p>
