@@ -1,68 +1,137 @@
-<h1 align="center">Yo 👋What's Up ?</h1>
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/binksterrel/portfolio-terrel-nuentsa/main/public/banner.png"
+    alt="Terrel Nuentsa - Developer Portfolio" width="100%" />
+</p>
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6500&center=true&vCenter=true&width=600&lines=Terrel+Nuentsa;SI+%7C+E-commerce+%7C+UX+Designer;Full-Stack+Developer" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-</div>
+<p align="center">
+  <strong>Systèmes d'Information · E-commerce B2C/C2C · Design System</strong>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=binksterrel&color=ff6500&style=flat-square&label=Visiteurs" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/binksterrel?style=flat-square&color=ff6500&labelColor=000000" alt="Followers" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/terrelnuentsa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+---
+
+## 🚀 Projets Phares
+
+### 📂 [Portfolio SI](https://portfolio-terrel.vercel.app)
+Plateforme centralisant TDs, cours, livrables et modals plein écran avec une identité visuelle orange/noir.
+- **Stack :** Next.js, React, Tailwind CSS
+- **Design :** Identité graphique cohérente, animations fluides
+
+### 👟 [Bander-Sneakers](https://bander-sneakers.kesug.com)
+Marketplace B2C + C2C dédiée aux sneakers avec interface admin complète.
+- **Live :** [bander-sneakers.kesug.com](https://bander-sneakers.kesug.com)
+- **Repo :** [github.com/binksterrel/bander-sneakers](https://github.com/binksterrel/bander-sneakers)
+- **Livrables :** Cahier des charges, maquettes desktop/mobile, design system, guides utilisateur/admin/installation, SQL/CSV
+
+---
+
+## 🛠️ Technologies & Outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,php,mysql,figma,git,ps,pr&theme=dark" height="50" />
+</p>
+
+<details>
+<summary><strong>🎨 Front-End</strong></summary>
+<br>
+  
+- **Frameworks :** React, Next.js
+- **Styling :** Tailwind CSS, CSS3
+- **Languages :** JavaScript, TypeScript, HTML5
+</details>
+
+<details>
+<summary><strong>⚙️ Back-End & Base de données</strong></summary>
+<br>
+  
+- **Langages :** PHP, SQL
+- **BDD :** MySQL, MariaDB
+- **API :** RESTful architecture
+</details>
+
+<details>
+<summary><strong>🎯 Design & UX</strong></summary>
+<br>
+  
+- **Design :** Figma, Adobe Photoshop
+- **Vidéo :** Adobe Premiere Pro
+- **UI/UX :** Design Systems, Maquettes interactives
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff6500&text_color=ffffff&icon_color=ff6500" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6500&text_color=ffffff&icon_color=ff6500" height="165" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=dark&hide_border=true&background=000000&ring=ff6500&fire=ff6500&currStreakLabel=ff6500" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binksterrel&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4&title=Commits,Followers,Repositories,Stars" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=000000&color=ff6500&line=ff6500&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 💼 Compétences Clés
+
+\`\`\`javascript
+const terrel = {
+  specialites: ["SI", "E-commerce", "UX Design"],
+  architecture: ["B2C", "C2C", "SaaS"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["PHP", "MySQL"],
+  design: ["Figma", "Design System", "UI/UX"],
+  methodologie: ["Agile", "Documentation complète", "Livrables professionnels"],
+  identite_visuelle: {
+    couleurs: ["#ff6500", "#000000"],
+    philosophie: "Minimaliste, moderne, impactant"
+  }
+};
+\`\`\`
+
+---
+
+## 📫 Contact & Réseaux
+
+<p align="center">
+  <a href="https://portfolio-terrel.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white&color=ff6500" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+  <a href="https://www.linkedin.com/in/terrelnuentsa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nuentsa.terrel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/binksterrel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=binksterrel&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&radius=16&theme=one-dark&area=true&order=5&area_color=%20%20%20" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=100&section=footer" width="100%" />
+</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binksterrel/binksterrel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binksterrel/binksterrel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/binksterrel/binksterrel/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+  <sub>Conçu avec ❤️ et beaucoup de ☕</sub>
+</p>
