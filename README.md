@@ -16,22 +16,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,php,mysql,figma,git,ps,pr&theme=dark" height="50" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binksterrel&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=E62F2F&text_color=ffffff&icon_color=E62F2F" height="165" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=binksterrel&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=E62F2F&text_color=ffffff&icon_color=E62F2F" height="165" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binksterrel&theme=dark&hide_border=true&background=000000&ring=E62F2F&fire=E62F2F&currStreakLabel=E62F2F" height="180" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binksterrel&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4&title=Commits,Followers,Repositories,Stars" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binksterrel&theme=react-dark&bg_color=000000&color=E62F2F&line=E62F2F&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
 
