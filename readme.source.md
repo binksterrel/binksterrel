@@ -146,64 +146,6 @@
 </div>
 ```
 
-```aura width=800 height=200
-<div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#06020a', borderRadius: 20, overflow: 'hidden', fontFamily: 'Inter, sans-serif', border: '1px solid rgba(251,38,65,0.10)' }}>
-  <style>{`
-    @keyframes po-a { 0%, 100% { transform: translate(0,0); opacity: 0.45; } 50% { transform: translate(16px,-12px); opacity: 0.7; } }
-    @keyframes po-b { 0%, 100% { transform: translate(0,0); opacity: 0.38; } 50% { transform: translate(-12px,10px); opacity: 0.62; } }
-    #po1 { animation: po-a 10s ease-in-out infinite; }
-    #po2 { animation: po-b 12s ease-in-out infinite 1s; }
-    #po3 { animation: po-a 9s ease-in-out infinite 2.5s; }
-    #po4 { animation: po-b 11s ease-in-out infinite 0.5s; }
-  `}</style>
-  <svg width="800" height="200" style={{ position: 'absolute', top: 0, left: 0 }}>
-    <defs>
-      <radialGradient id="pg1" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(251,38,65,0.4)" />
-        <stop offset="100%" stopColor="rgba(251,38,65,0)" />
-      </radialGradient>
-      <radialGradient id="pg2" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(254,149,105,0.35)" />
-        <stop offset="100%" stopColor="rgba(254,149,105,0)" />
-      </radialGradient>
-      <radialGradient id="pg3" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(253,177,73,0.3)" />
-        <stop offset="100%" stopColor="rgba(253,177,73,0)" />
-      </radialGradient>
-      <radialGradient id="pg4" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(251,38,65,0.25)" />
-        <stop offset="100%" stopColor="rgba(251,38,65,0)" />
-      </radialGradient>
-    </defs>
-    <ellipse id="po1" cx="80"  cy="160" rx="155" ry="115" fill="url(#pg1)" />
-    <ellipse id="po2" cx="730" cy="50"  rx="145" ry="115" fill="url(#pg2)" />
-    <ellipse id="po3" cx="640" cy="170" rx="135" ry="105" fill="url(#pg3)" />
-    <ellipse id="po4" cx="180" cy="40"  rx="125" ry="95"  fill="url(#pg4)" />
-  </svg>
-  <span style={{ fontSize: 10, color: 'rgba(251,38,65,0.65)', letterSpacing: 4, textTransform: 'uppercase', marginBottom: 18, fontWeight: 500 }}>Projets réalisés</span>
-  <div style={{ display: 'flex', gap: 12 }}>
-    {[
-      { name: 'Banquise', desc: 'Néobanque · Random Forest', color: '#fb2641', tags: ['Python', 'Django', 'ML'] },
-      { name: 'Episteme', desc: 'Graphe · 1700 scientifiques', color: '#fe9569', tags: ['NetworkX', 'LLM', 'Vis.js'] },
-      { name: 'Swish Tac Toe', desc: 'Morpion NBA · iOS', color: '#fdb149', tags: ['Swift', 'Groq', 'NBA API'] },
-    ].map((p, i) => (
-      <div key={i} style={{ display: 'flex', flexDirection: 'column', flex: 1, background: 'rgba(255,255,255,0.03)', borderRadius: 12, padding: '14px 16px', border: `1px solid ${p.color}22` }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>
-          <div style={{ width: 6, height: 6, borderRadius: '50%', background: p.color, flexShrink: 0 }} />
-          <span style={{ fontSize: 14, fontWeight: 700, color: '#ffffff' }}>{p.name}</span>
-        </div>
-        <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', marginBottom: 10, lineHeight: 1.4 }}>{p.desc}</span>
-        <div style={{ display: 'flex', gap: 5, flexWrap: 'wrap' }}>
-          {p.tags.map((t, j) => (
-            <span key={j} style={{ padding: '2px 8px', background: `${p.color}14`, color: p.color, borderRadius: 100, fontSize: 10, fontWeight: 600, border: `1px solid ${p.color}28`, fontFamily: 'monospace' }}>{t}</span>
-          ))}
-        </div>
-      </div>
-    ))}
-  </div>
-</div>
-```
-
 ```aura width=800 height=80
 <div style={{ display: 'flex', gap: 8, padding: '14px 20px', width: '100%', height: '100%', background: '#06020a', borderRadius: 30, alignItems: 'center', justifyContent: 'center', fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', border: '1px solid rgba(251,38,65,0.12)' }}>
   <style>{`
