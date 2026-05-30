@@ -201,26 +201,6 @@
   </div>
 </div>
 ```
-
-```aura width=800 height=80
-<div style={{ display: 'flex', gap: 8, padding: '14px 20px', width: '100%', height: '100%', background: '#E8221A', borderRadius: 30, alignItems: 'center', justifyContent: 'center', fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden' }}>
-  {[
-    { label: 'Python', bg: 'rgba(0,0,0,0.2)', color: '#000' },
-    { label: 'SQL', bg: 'rgba(0,0,0,0.2)', color: '#000' },
-    { label: 'Scikit-learn', bg: 'rgba(0,0,0,0.2)', color: '#000' },
-    { label: 'NetworkX', bg: 'rgba(0,0,0,0.2)', color: '#000' },
-    { label: 'TypeScript', bg: 'rgba(255,255,255,0.25)', color: '#fff' },
-    { label: 'Next.js', bg: 'rgba(255,255,255,0.25)', color: '#fff' },
-    { label: 'Java Spring', bg: 'rgba(255,255,255,0.25)', color: '#fff' },
-    { label: 'Swift', bg: 'rgba(0,0,0,0.15)', color: '#000' },
-    { label: 'Groq', bg: 'rgba(0,0,0,0.15)', color: '#000' },
-    { label: 'Mistral', bg: 'rgba(0,0,0,0.15)', color: '#000' },
-  ].map((s, i) => (
-    <span key={i} style={{ padding: '5px 14px', background: s.bg, color: s.color, borderRadius: 100, fontSize: 12, fontWeight: 700, fontFamily: 'monospace', letterSpacing: '0.02em' }}>{s.label}</span>
-  ))}
-</div>
-```
-
 ```aura width=120 height=44 link="https://portfolio-terrel.vercel.app" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/vercel/ffffff"
