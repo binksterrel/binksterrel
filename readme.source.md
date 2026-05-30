@@ -211,7 +211,7 @@
 
 ```aura width=130 height=44 link="https://linkedin.com/in/terrelnuentsa" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+  icon="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png"
   text="LinkedIn"
   backgroundColor="#040e1a"
   width={130}
